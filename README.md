@@ -1,2 +1,0 @@
-# Frontend
-José Macías Guerrero
